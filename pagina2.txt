@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alivio efectivo</title>
+</head>
+
+<body text ="#38586e">
+    <center><img src = "Logotipo.png" style="width:50%;"></center>
+    
+    <center><h3>Una amplia gama de posibilidades para aliviar sus dolores</h3></center>
+    <h4>PRODUCTOS</h4>
+
+    <center><img src = "" style="width:50%;"></center>
+
+<center><table border = "1" >
+	<tr>
+	<td><a href="UC.html">Inicio</a></td>
+	<td><a href="pagina1.html">Nuestra historia</a></td>
+	<td><a href="pagina3.html">Tratamientos y consejos</a></td>
+	<td><a href="pagina4.html">Preguntas frecuentes</a></td>
+	<td><a href="pagina5.html">Reseñas de clientes</a></td>
+	<td><a href="pagina6.html">Contacto</a></td>
+	</tr>
+</body>
+
+</html>

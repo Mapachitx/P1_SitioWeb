@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contáctanos</title>
+</head>
+
+<body text ="#38586e">
+    <center><img src = "Logotipo.png" style="width: 30%;"></center>
+    
+    <h3>Información de Contacto</h3>
+
+<p>Teléfono: +52 55 1234 5678
+Correo Electrónico: info@unguentosmilagrosos.com
+WhatsApp: +52 55 9876 5432
+Horario de Atención: Lunes a Viernes de 9:00 a.m. a 6:00 p.m.</p>
+<p>Dirección:
+Oficinas Centrales:
+Av. Reforma 123, Col. Centro
+Ciudad de México, CDMX, México
+C.P. 01000</p>
+<p>Formulario de Contacto:
+Para enviar tus dudas o comentarios, por favor completa el siguiente formulario:</p>
+<p>Nombre: [Campo de texto]
+Correo Electrónico: [Campo de texto]
+Mensaje: [Área de texto]</p>
+
+[Botón: Enviar]
+
+<p>Redes Sociales:
+Facebook: facebook.com/unguentosmilagrosos
+Instagram: instagram.com/unguentosmilagrosos
+Twitter: twitter.com/unguentosmilagrosos</p>
+<p>Mapa de Localización:
+Incorpora un mapa para que los usuarios puedan encontrar tu ubicación más fácilmente. Esto se puede lograr usando Google Maps o un servicio similar:
+
+Mapa de ubicación: [Incrustar mapa de Google Maps aquí]</p>
+
+
+	<center><table border = "1" >
+	<tr>
+	<td><a href="UC.html">Inicio</a></td>
+	<td><a href="pagina1.html">Nuestra historia</a></td>
+	<td><a href="pagina2.html">Productos</a></td>
+	<td><a href="pagina3.html">Tratamientos y consejos</a></td>
+	<td><a href="pagina4.html">Preguntas frecuentes</a></td>
+	<td><a href="pagina5.html">Reseñas de clientes</a></td>
+	</tr>
+
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>100 años de alivio</title>
+</head>
+
+<body bgcolor ="#fff9e7" text ="#38586e">
+    <img src = "botica.jpg" style="width: 90%;">
+
+<center><table border = "1" >
+	<tr>
+	<td><a href="UC.html">Inicio</a></td>
+	<td><a href="pagina2.html">Productos</a></td>
+	<td><a href="pagina3.html">Tratamientos y consejos</a></td>
+	<td><a href="pagina4.html">Preguntas frecuentes</a></td>
+	<td><a href="pagina5.html">Reseñas de clientes</a></td>
+	<td><a href="pagina6.html">Contacto</a></td>
+	</tr>
+
+</body>
+
+</html>
